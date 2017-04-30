@@ -38,3 +38,7 @@ Started GET "/" for ::1 at 2015-11-18 13:37:10 -0600
 Processing by Rails::WelcomeController#index as HTML
   Rendered /Users/admin/.rvm/gems/ruby-2.1.2/gems/railties-4.2.3/lib/rails/templates/rails/welcome/index.html.erb (0.0ms)
 Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: '/students'` to `controller: '/students'`. (called from block in <top (required)> at /Users/cbuggelli/Desktop/FlatironLabs/Rails/rails-restful-index-action-lab-web-040317/config/routes.rb:3)
+DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: '/students'` to `controller: '/students'`. (called from block in <top (required)> at /Users/cbuggelli/Desktop/FlatironLabs/Rails/rails-restful-index-action-lab-web-040317/config/routes.rb:3)
+DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: '/students'` to `controller: '/students'`. (called from block in <top (required)> at /Users/cbuggelli/Desktop/FlatironLabs/Rails/rails-restful-index-action-lab-web-040317/config/routes.rb:3)
+DEPRECATION WARNING: Defining a route where `to` is a controller without an action is deprecated. Please change `to: '/students'` to `controller: '/students'`. (called from block in <top (required)> at /Users/cbuggelli/Desktop/FlatironLabs/Rails/rails-restful-index-action-lab-web-040317/config/routes.rb:3)
